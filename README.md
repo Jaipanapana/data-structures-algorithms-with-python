@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -101,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
