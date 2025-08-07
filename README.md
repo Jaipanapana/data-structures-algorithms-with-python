@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0155-min-stack) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
