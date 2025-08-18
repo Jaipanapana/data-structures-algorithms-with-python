@@ -188,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0039-combination-sum) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
