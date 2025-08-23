@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0503-next-greater-element-ii) |
@@ -111,11 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
