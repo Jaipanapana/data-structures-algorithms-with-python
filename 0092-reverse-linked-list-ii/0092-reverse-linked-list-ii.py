@@ -12,11 +12,9 @@ class Solution:
         dummy.next = head
         prev = dummy
 
-        # Step 1: Move `prev` to node before 'left'
         for _ in range(left - 1):
             prev = prev.next
 
-        # Step 2: Reverse sublist
         curr = prev.next
         nxt = None
         prev_sub = None
@@ -26,7 +24,6 @@ class Solution:
             prev_sub = curr
             curr = nxt
 
-        # Step 3: Connect reversed sublist back
         prev.next.next = curr
         prev.next = prev_sub
 
