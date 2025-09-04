@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3830-find-closest-person](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
