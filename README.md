@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1023-time-based-key-value-store) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1023-time-based-key-value-store) |
 ## Greedy
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0155-min-stack) |
+| [1023-time-based-key-value-store](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1023-time-based-key-value-store) |
 ## Backtracking
 |  |
 | ------- |
