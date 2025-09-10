@@ -1,13 +1,7 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        i=0
-        j=len(s1)
-        st=s2[:j]
-        while(j<=len(s2)):
-            if sorted(s1)==sorted(st):
+        l=len(s1)
+        for i in range(len(s2)-l+1):
+            if sorted(s1)==sorted(s2[i:i+l]):
                 return True
-            i+=1
-            j+=1
-            st=s2[i:j]
-        return False
-        
+        return  False
