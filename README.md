@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0907-koko-eating-bananas) |
+| [1006-vowel-spellchecker](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0567-permutation-in-string) |
+| [1006-vowel-spellchecker](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1023-time-based-key-value-store) |
 ## String
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0567-permutation-in-string) |
+| [1006-vowel-spellchecker](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
