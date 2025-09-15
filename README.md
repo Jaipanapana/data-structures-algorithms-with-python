@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0567-permutation-in-string) |
 | [1006-vowel-spellchecker](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1023-time-based-key-value-store) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0567-permutation-in-string) |
 | [1006-vowel-spellchecker](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1023-time-based-key-value-store) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Sorting
 |  |
 | ------- |
