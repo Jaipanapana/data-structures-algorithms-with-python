@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0084-largest-rectangle-in-histogram) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0074-search-a-2d-matrix) |
 ## Union Find
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0067-add-binary) |
 ## Design
 |  |
