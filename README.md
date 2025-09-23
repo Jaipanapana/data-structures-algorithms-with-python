@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0128-longest-consecutive-sequence) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0205-isomorphic-strings) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0079-word-search) |
 ## Union Find
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
@@ -261,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0023-merge-k-sorted-lists) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
