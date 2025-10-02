@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1642-water-bottles](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/3336-water-bottles-ii) |
 | [3830-find-closest-person](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/3336-water-bottles-ii) |
 ## Design
 |  |
 | ------- |
