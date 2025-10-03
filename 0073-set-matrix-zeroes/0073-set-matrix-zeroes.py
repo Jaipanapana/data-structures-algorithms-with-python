@@ -4,10 +4,8 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        # dummy= list(matrix)
-        dummy = deepcopy(matrix)
-        n = len(matrix)
-        m = len(matrix[0])
+        dummy= deepcopy(matrix)
+        
         for i in range(len(matrix)):
             for j in range(len(matrix[0])):
                 if matrix[i][j]==0:
@@ -20,7 +18,5 @@ class Solution:
                         dummy[k][j]=0 
                         k+=1
         print(dummy)                
-        for i in range(n):
-            for j in range(m):
-                matrix[i][j] = dummy[i][j]
+        matrix[:]=dummy
 
