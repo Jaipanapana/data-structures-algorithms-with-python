@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0907-koko-eating-bananas) |
 | [1006-vowel-spellchecker](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1006-vowel-spellchecker) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0567-permutation-in-string) |
 | [1006-vowel-spellchecker](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1023-time-based-key-value-store) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## String
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/0079-word-search) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Jaipanapana/data_structures_and_algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 ## Union Find
 |  |
 | ------- |
